@@ -1,0 +1,15 @@
+.container{
+  padding-top: 1em;
+}
+
+.calcJumbotron{
+  background-color: inherit;
+}
+
+.btn-primary a {
+  color: white;
+}
+
+a:hover{
+  text-decoration: none;
+}
